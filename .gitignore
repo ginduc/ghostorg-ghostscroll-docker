@@ -1,0 +1,3 @@
+lib/ghost/config.js
+lib/ghost/*/*
+!lib/ghost/themes/GhostScroll/

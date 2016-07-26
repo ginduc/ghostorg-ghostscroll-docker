@@ -1,0 +1,7 @@
+cms:
+  image: ghost:0.8.0
+  ports:
+    - "2368:2368"
+  volumes:
+    - ./lib/ghost:/var/lib/ghost
+
